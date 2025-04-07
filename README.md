@@ -21,8 +21,8 @@ Python과 OpenCV를 이용해 제작한 **간단한 카메라 캘리브레이터
 
 ## 📐 카메라 캘리브레이션 결과 (예시)
 
-/Users/seung_rain/Documents/Simple_Camera_Calibrator/Screenshot(1).png
-/Users/seung_rain/Documents/Simple_Camera_Calibrator/Screenshot(2).png
+![이미지 인식](Screenshot(1).png)
+![결과](Screenshot(2).png)
 
 | 파라미터 | 값 |
 |----------|----------------------------------------------------|
@@ -34,8 +34,8 @@ Python과 OpenCV를 이용해 제작한 **간단한 카메라 캘리브레이터
 
 ## 📺 렌즈 왜곡 보정 결과 (예시)
 
-/Users/seung_rain/Documents/Simple_Camera_Calibrator/Screenshot(3).png
-/Users/seung_rain/Documents/Simple_Camera_Calibrator/Screenshot(4).png
+![보정 결과](Screenshot(3).png)
+![보정 결과](Screenshot(4).png)
 
 ---
 
